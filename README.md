@@ -56,7 +56,7 @@ Con queste prestazioni si riducono quasi totalmente i falsi negativi grazie ad u
 ## Utilizzo  
 1. Scarica o clona il repository.
 2. Apri il file `cross-selling_polizze_assicurative.ipynb` su Google Colab o altri ambienti compatibili con Jupyter Notebook.
-3. Esegui il codice passo-passo per ottenere i risultati delle analisi.
+3. Esegui il codice passo-passo per ottenere i risultati.
 4. Il dataset utilizzato (`insurance_cross_sell`) è incluso nel repository.
 
 ## Autore
