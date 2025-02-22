@@ -1,7 +1,7 @@
 # Cross-selling di polizze assicurative
 
 ## Descrizione del progetto
-Questo progetto, realizzato durante il Master in Data Science di Profession AI, si propone di sviluppare col linguaggio **Python** e la libreria **scikit-learn** (ambiente **Google Colab**), un modello di machine learning per identificare i clienti esistenti di una compagnia assicurativa che potrebbero essere interessati a sottoscrivere una polizza aggiuntiva per il loro veicolo. L'obiettivo è ottimizzare le strategie di cross-selling, migliorando l'efficacia delle campagne di marketing e aumentando il tasso di conversione.
+Questo progetto, realizzato durante il Master in Data Science di ProfessionAI, si propone di sviluppare col linguaggio **Python** e la libreria **scikit-learn** (ambiente **Google Colab**), un modello di machine learning per identificare i clienti esistenti di una compagnia assicurativa che potrebbero essere interessati a sottoscrivere una polizza aggiuntiva per il loro veicolo. L'obiettivo è ottimizzare le strategie di cross-selling, migliorando l'efficacia delle campagne di marketing e aumentando il tasso di conversione.
 
 ### Obiettivi specifici
 - Predire la propensione dei clienti con un'assicurazione sanitaria ad acquistare una polizza veicoli.
