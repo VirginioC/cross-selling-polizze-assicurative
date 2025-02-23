@@ -12,7 +12,7 @@ Questo progetto, realizzato durante il Master in Data Science di ProfessionAI, s
 Il progetto è organizzato nelle seguenti fasi:
 
 1. **Analisi esplorativa**:
-   - Studio del dataset **`insurance_cross_sell`** (incluso nel repository) contenente le seguenti features sui clienti: `id`, `Gender`, `Age`, `Driving_License`, `Region_Code`, `Previously_Insured`, `Vehicle_Age`, `Vehicle_Damage`, `Annual_Premium`, `Policy_Sales_Channel`, `Vintage` e `Response`. L'ultima variabile, **`Response`**, rappresenta il target binario (1: cliente interessato, 0: non interessato).
+   - Studio del dataset **`insurance_cross_sell`** (incluso nel repository) contenente 381109 samples con le seguenti features sui clienti: `id`, `Gender`, `Age`, `Driving_License`, `Region_Code`, `Previously_Insured`, `Vehicle_Age`, `Vehicle_Damage`, `Annual_Premium`, `Policy_Sales_Channel`, `Vintage` e `Response`. L'ultima variabile, **`Response`**, rappresenta il target binario (1: cliente interessato, 0: non interessato).
    - Identificazione di un consistente **sbilanciamento delle classi del target**: 87.74% dei clienti appartiene alla classe negativa.
      
 2. **Preprocessing dei dati**:
